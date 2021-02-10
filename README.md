@@ -4,7 +4,9 @@ Exploratory Data Analysis using some inbuilt methods like Sweetviz,Pandas Profil
 #Dependencies 
 
 `!pip install sweetviz`
+
 `!pip install -U pandas-profiling`
+
 `!pip install autoviz`
 
 
